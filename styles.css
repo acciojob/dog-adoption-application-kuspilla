@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+
+
+*{
+	background-color : #ddd;
+	padding-top : 9px;
+	padding-left : 10px
+	font-size : 900;
+	font-falimy : arial;
+}
+button{
+	text-align : center;
+}
